@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019.05.22 20:57:52.170,=C:\Users\keks\Desktop\workstation\IT\Project1PCH1.h</Transaction>
+    <Transaction>2019.05.22 20:57:52.572,=C:\Users\keks\Desktop\workstation\IT\Unit1.cpp</Transaction>
+    <Transaction>2019.05.22 20:58:47.078,C:\Users\keks\Desktop\workstation\IT\rad studio\Unit1.h=C:\Users\keks\Desktop\workstation\IT\Unit1.h</Transaction>
+    <Transaction>2019.05.22 20:58:47.078,C:\Users\keks\Desktop\workstation\IT\rad studio\Unit1.cpp=C:\Users\keks\Desktop\workstation\IT\Unit1.cpp</Transaction>
+    <Transaction>2019.05.22 20:58:47.078,C:\Users\keks\Desktop\workstation\IT\rad studio\Unit1.dfm=C:\Users\keks\Desktop\workstation\IT\Unit1.dfm</Transaction>
+    <Transaction>2019.05.22 20:58:48.176,C:\Users\keks\Desktop\workstation\IT\rad studio\Project1PCH1.h=C:\Users\keks\Desktop\workstation\IT\Project1PCH1.h</Transaction>
+    <Transaction>2019.05.22 20:58:49.321,C:\Users\keks\Desktop\workstation\IT\rad studio\Project1.cbproj=C:\Users\keks\Desktop\workstation\IT\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
